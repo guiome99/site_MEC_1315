@@ -1,0 +1,25 @@
+Contribution des membres de l'équipe pour la réalisation du TS2
+
+Boutons d'acceuil (connection et enregistrement)  & background :Guillaume
+
+Page acceuil :Giselle,Rached
+
+Page reservation: Giselle, Aimée, Guillaume
+
+
+Page disponibilité: Giselle,Rached,Aimée
+
+
+Page d'activités: Rached,Guillaume,Aimée,Giselle
+
+
+Page reglements: Aimée, Rached
+
+
+Debaugage et nettoyage : Guillaume,Giselle,Aimée
+
+
+Photos: Rached
+
+
+Esthétique(css):Giselle,Guillaume, Aimée
